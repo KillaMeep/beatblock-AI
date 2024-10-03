@@ -1,0 +1,5 @@
+train: F:/Coding/bbdet/TrainData/obj_train_data/train/images
+val: F:/Coding/bbdet/TrainData/obj_train_data/val/images
+
+nc: 6  # Number of classes
+names: ['Inverse', 'Bomb', 'Pipe', 'Block', 'Slider', 'Player']  # List of class names
