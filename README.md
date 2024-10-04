@@ -57,9 +57,12 @@ The BeatBlock-AI project is an advanced software system tailored for real-time o
 | 🔌 | **Integrations**   | Integrates with machine learning frameworks and image processing libraries such as PyTorch and OpenCV  |
 | ⚡️ | **Performance**    | Based to run on a gpu compiled version of pytorch. |
 | 📦 | **Dependencies**   | Heavy reliance on various Python libraries including `numpy`, `torch`, and `opencv-python`.  |
-```
 
 ---
+
+```
+
+
 
 ##  Repository Structure
 
